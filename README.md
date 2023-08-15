@@ -1,2 +1,2 @@
 # ApiFuzzer
-API Fuzzer implemented in Python
+API Fuzzer implemented in Python.
